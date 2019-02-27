@@ -1,0 +1,10 @@
+id,name,source,destination,operator
+1,ram,mumbai,indore,jet airways
+1,ram,mumbai,indore,jet airways
+1,ram,mumbai ,goa,indigo
+1,ram,indore,mumbai,indigo
+1,ram,hydrabad,goa,jet airways
+2,shyam,mumbai,hydrabad,air india
+2,shyam,mumbai,hydrabad,air india
+2,shyam,goa,mumbai,wow airways
+2,shyam,bhopal,kolkata,indigo
